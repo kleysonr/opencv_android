@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:3:7-27
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+	android:versionName
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:5:7-34
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml:4:7-33
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+uses-sdk
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		ADDED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
+		INJECTED from /data/dev/AndroidStudioProjects/OpenCV4Java/OpencvLibrary/AndroidManifest.xml
