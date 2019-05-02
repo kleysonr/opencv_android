@@ -21,7 +21,7 @@ If you want to skip the procedures, just clone this repository and update the **
 
 3. Create a symbolic link for the native OpenCV compiled libs inside the app project
 
-```ln -s OpenCV-android-sdk/sdk/native/libs <project_folder>/app/src/main```
+```ln -s OpenCV-android-sdk/sdk/native/libs <project_folder>/app/src/main/jniLibs```
 
 4. Import as a new module (File -> New -> Import Module...) the OpenCV Java source into the project. 
 
